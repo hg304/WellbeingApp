@@ -1,0 +1,81 @@
+.Nutritiontitle{
+    font-size: 30px;
+    margin-top:-2.5em;
+    color:white;
+}
+
+.textBox{
+    border-radius: 5px;
+  }
+
+.addButton{
+    margin: 5px;
+    margin-bottom: 1em !important;
+    border: none !important;
+    outline: none;
+    background-color:#ff7770 !important;
+    width:15% !important;
+    color: white !important;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 400;
+    transition: all 0.5s ease-in-out !important;
+    
+}
+
+.viewHistory{
+    margin: 5px;
+    margin-bottom: 1em !important;
+    border: none !important;
+    outline: none;
+    background-color:#6392b0 !important;
+    width:15% !important;
+    color: white !important;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 400;
+    transition: all 0.5s ease-in-out !important;
+    
+}
+
+
+
+.foodPic{
+    width:20%;
+}
+
+.add{
+    width: 12%;
+    float: left;
+    margin-top:0.20em;
+}
+
+.summaryIcon{
+    width: 2.5%;
+    float: left;
+    margin-left: -16.20em;
+}
+
+.nutritionForm{
+    /* border: 1px solid red; */
+    width: 30%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: -0.5em;
+    margin-left: auto;
+}
+
+.addInfo{
+    margin: 5px;
+    margin-top:1em;
+    margin-bottom: 1em !important;
+    border: none !important;
+    outline: none;
+    background-color: #ff7770 !important;
+    width:50%;
+    color: white !important;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 400;
+    transition: all 0.5s ease-in-out !important;
+}
